@@ -25,5 +25,6 @@ public static void main(String[] args) {    //añadimos un main para crear un nu
     int resultado = suma1.sumar() ;
     System.out.println("La suma es: "+resultado);  
     System.out.println("Este es el segundo cambio");
+    System.out.println("Segundo cambio");
 }
 }
