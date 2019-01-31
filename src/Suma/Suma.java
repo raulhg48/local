@@ -23,6 +23,7 @@ public int sumar (){    //creamos un método (nos dará error hasta hacer un ret
 public static void main(String[] args) {    //añadimos un main para crear un nuevo objeto
    Suma suma1 = new Suma(50,30) ;           // y más adelante proyectarlo en pantalla.
     int resultado = suma1.sumar() ;
-    System.out.println("La suma es: "+resultado);    
+    System.out.println("La suma es: "+resultado);  
+    System.out.println("Este es el segundo cambio");
 }
 }
